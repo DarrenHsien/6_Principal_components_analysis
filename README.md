@@ -1,0 +1,2 @@
+# 6_Principal_components_analysis
+主成分分析_降低特徵的維度
